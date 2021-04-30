@@ -1,0 +1,19 @@
+pay :
+inactive
+
+hotel name
+room no
+room type
+date from -> to
+ammount
+
+active 
+card no
+
+
+submit
+
+recipt generate
+
+mail going
+
