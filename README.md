@@ -1,3 +1,3 @@
 # Online-Hotels-Resorts-Booking-System
 
-For Documentation and UI design and workflow read the .docx file
+For Documentation and UI design and workflow read the pradipta_php_report.docx file
